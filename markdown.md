@@ -77,6 +77,6 @@ A | B | A XOR B
 
 # Ejemplo de emojis
 
-: +1: :octocat: 😁 🤘 ☠️ 🎮
+: +1: :octocat: 😁 🤘 ☠️ 🎮 smirk
 
 ### Y eso es todo amigos!
